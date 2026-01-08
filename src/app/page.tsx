@@ -1,3 +1,4 @@
+//before starting the app 
 'use client';
 import { useAuth } from "@/context/AuthContext";
 import { useRouter } from "next/navigation";

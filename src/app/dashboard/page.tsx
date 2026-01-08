@@ -1,3 +1,4 @@
+//after login, user lands on dashboard
 'use client';
 
 import ProtectedRoute from '@/components/ProtectedRoute';

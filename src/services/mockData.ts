@@ -44,4 +44,11 @@ export const MOCK_TASKS: Task[] = [
         status: 'PENDING',
         assigneeId: '1',
     },
+    {
+        id: '105',
+        title: 'Task Updation',
+        description: 'Review the pull request for the new feature.',
+        status: 'IN_PROGRESS',
+        assigneeId: '1',
+    },
 ];
